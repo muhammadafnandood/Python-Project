@@ -1,0 +1,5 @@
+
+stack-data==0.6.3
+streamlit==1.43.2
+streamlit-nightly==1.44.2.dev20250403
+style==1.1.0
